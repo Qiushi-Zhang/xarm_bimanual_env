@@ -26,10 +26,14 @@ Rigid-body kinematics, dynamics, and Jacobians are computed with the [Pinocchio]
 git clone https://github.com/YOUR_USERNAME/xarm_bimanual_ic.git
 cd xarm_bimanual_ic
 
+
+```bash
 # 2 Create a conda env (Python 3.10 recommended)
 conda create -n xarm_bimanual python=3.10 -y
 conda activate xarm_bimanual
 
+
+```bash
 # 3 Install dependencies
 conda install -c conda-forge pinocchio            # Pinocchio ≥ 3.4
 pip install mujoco==3.2.7 numpy scipy            # MuJoCo + helpers
