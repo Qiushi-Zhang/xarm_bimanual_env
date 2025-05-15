@@ -13,7 +13,10 @@ Run example/xarm_bimanual_ic to see how to use impedance controller to move EE
   <img src="fig/bimanual_ic_demo.gif" width="720" alt="Impedance-control demo GIF">
 </p> -->
 
-<video src="fig/test_video.mp4" autoplay loop muted playsinline width="720"></video>
+<!-- <video src="fig/test_video.mp4" autoplay loop muted playsinline width="720"></video> -->
+
+<video src="https://raw.githubusercontent.com/<user>/<repo>/main/fig/test_video.mp4"
+       width="720" controls muted loop playsinline></video>
 
 ---
 
