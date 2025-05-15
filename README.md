@@ -9,9 +9,11 @@ Rigid-body kinematics, dynamics, and Jacobians are computed with the [Pinocchio]
 
 Run example/xarm_bimanual_ic to see how to use impedance controller to move EE
 
-<p align="center">
+<!-- <p align="center">
   <img src="fig/bimanual_ic_demo.gif" width="720" alt="Impedance-control demo GIF">
-</p>
+</p> -->
+
+<video src="fig/test_video.mp4" autoplay loop muted playsinline width="720"></video>
 
 ---
 
